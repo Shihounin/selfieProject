@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+	<item
+        android:id="@+id/camera"
+        android:icon="@drawable/camera"
+        android:title="@string/camera"
+        android:showAsAction="always"/>
+		
+	<item
+	    android:id="@+id/alarm"
+	    android:icon="@drawable/alarm"
+	    android:title="@string/alarm"
+	    android:showAsAction="always"/>
+	
+	<item
+	    android:id="@+id/delete"
+        android:title="@string/delete"
+        android:showAsAction="ifRoom"/>
+	    
+    
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">selfieProject</string>
+    <string name="title_photo_detail">Photo Detail</string>
+    <string name="camera">Camera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="myphoto">My Photo!</string>
+    <string name="delete">Delete All</string>
+    <string name="alarm">Alarm</string>
+
+</resources>
